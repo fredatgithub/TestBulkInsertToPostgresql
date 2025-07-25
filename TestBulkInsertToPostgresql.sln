@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBulkInsertToPostgresql", "TestBulkInsertToPostgresql\TestBulkInsertToPostgresql.csproj", "{D1F6EB64-5A6B-42D0-823A-D38E4E90A08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsertAndValidate", "BulkInsertAndValidate\BulkInsertAndValidate.csproj", "{8B0E95F8-6EEA-4FAD-AF33-AA54B38CBA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F6EB64-5A6B-42D0-823A-D38E4E90A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F6EB64-5A6B-42D0-823A-D38E4E90A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F6EB64-5A6B-42D0-823A-D38E4E90A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F6EB64-5A6B-42D0-823A-D38E4E90A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0E95F8-6EEA-4FAD-AF33-AA54B38CBA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0E95F8-6EEA-4FAD-AF33-AA54B38CBA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0E95F8-6EEA-4FAD-AF33-AA54B38CBA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0E95F8-6EEA-4FAD-AF33-AA54B38CBA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3D200F-4C56-4818-AD9C-93E71DB1EE0F}
+	EndGlobalSection
+EndGlobal
